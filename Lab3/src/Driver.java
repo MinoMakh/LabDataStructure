@@ -11,6 +11,7 @@ public class Driver {
 		list.traverse();
 		list.sort();
 		System.out.println("Sorted:");
+		System.out.println("hello");
 		list.traverse();
 		list.insertSorted(75);
 		list.traverse();
